@@ -1,0 +1,1 @@
+{"tilemap": {"1;2": {"type": "levels", "variant": 3, "pos": [1, 2]}, "3;2": {"type": "levels", "variant": 4, "pos": [3, 2]}, "5;2": {"type": "levels", "variant": 5, "pos": [5, 2]}, "7;2": {"type": "levels", "variant": 6, "pos": [7, 2]}, "9;2": {"type": "levels", "variant": 7, "pos": [9, 2]}}, "tile_size": 45, "offgrid": []}
